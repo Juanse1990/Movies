@@ -1,0 +1,21 @@
+.moviesCard {
+  list-style: none;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.moviesCard:hover {
+  opacity: 0.8;
+}
+
+.moviesImage {
+  border-radius: 10px;
+  background-color: azure;
+}
+
+@media (max-width: 560px) {
+  .moviesImage {
+    width: 90%;
+    height: auto;
+  }
+}
