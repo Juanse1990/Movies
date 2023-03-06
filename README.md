@@ -1,1 +1,2 @@
-Mi primer Pagina usando React
+Movies
+Bienvenidos a mi pagina Movies Realizada con React.
